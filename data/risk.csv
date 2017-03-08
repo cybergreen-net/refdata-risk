@@ -5,7 +5,7 @@ id,slug,title,amplification_factor,description
 
 Open NTP are amongst the most effectively mis-used DDOS amplifiers.
 Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does (particularly problems with spoofed traffic, traffic amplification, and unnecessarily promiscuous access to servers). It is thus hardly surprising that NTP is being abused for DDoS attacks..."
-1,open-recursive-dns,Open Recursive DNS,41,"The Domain Name System (DNS) is pervasive. Collectively, we use it billions of times a day, often without even knowing that it exists. For enterprises, it's their digital identity as well as a critical component of their security architecture. In short: DNS is pervasive and there are many DNS servers on the Internet.
+1,openrecursivedns,Open Recursive DNS,41,"The Domain Name System (DNS) is pervasive. Collectively, we use it billions of times a day, often without even knowing that it exists. For enterprises, it's their digital identity as well as a critical component of their security architecture. In short: DNS is pervasive and there are many DNS servers on the Internet.
 Since DNS runs on the [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) protocol, it can be used for [amplification attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack#Reflected_.2F_spoofed_attack).
 
 **Impact of running open recursive DNS servers**
