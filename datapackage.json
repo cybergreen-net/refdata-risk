@@ -26,6 +26,11 @@
             "description": "Actual name for given risk"
           },
           {
+            "name": "is_archived",
+            "type": "boolean",
+            "description": "Dataset is marked for archival"
+          },
+          {
             "name": "taxonomy",
             "type": "string",
             "description": "Taxonomy for given risk"
